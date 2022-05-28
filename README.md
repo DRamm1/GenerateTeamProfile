@@ -1,7 +1,7 @@
 # GenerateTeamProfile
 
 # GenerateTeamProfile Starter Code
-Live URL: https://dramm1.github.io/
+Live URL: https://dramm1.github.io/GenerateTeamProfile/
 
 # Acceptance Criteria
 - GIVEN a command-line application that accepts user input
@@ -24,23 +24,22 @@ Live URL: https://dramm1.github.io/
 
 # User Story:
 ------------
-- 
+- As a user I am prompted questions and by answering them the program will make a team page.
 --------------------------------------
 
 # How To Use:
 -------------
-- 
+- You will be prompted questions and the program will use that information to generate necessary documentation.
 ------------------
 
 # Screenshots and Images:
 - ![](https://github.com/DRamm1///main/assets/images/)
-- ![](https://github.com/DRamm1//main/assets/images/)
 ------------------
  Additional Images and Information:
 
 - GitHub Link:
 
-- https://github.com/DRamm1/
+- https://github.com/DRamm1/GenerateTeamProfile
 
 - Framework:
 Javascript, node, npm
