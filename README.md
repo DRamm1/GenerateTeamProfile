@@ -33,7 +33,7 @@ Live URL: https://dramm1.github.io/GenerateTeamProfile/
 ------------------
 
 # Screenshots and Images:
-- ![] ([https://github.com/DRamm1/GenerateTeamProfile/blob/main/assets/images/mock%20up.png])
+- ![](https://github.com/DRamm1/GenerateTeamProfile/blob/main/assets/images/mock%20up.png)
 ------------------
  Additional Images and Information:
 
